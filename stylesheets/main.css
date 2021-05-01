@@ -1,0 +1,46 @@
+body {
+  background: url(/images/1.jpg);
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+p {
+  padding: 10px;
+  font-size: 12px;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+.nav {
+  list-style: none;
+  overflow: hidden;
+  background-color: #ce5a0d;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+
+.nav li{
+  padding: 2px 200px;
+}
+
+li {
+  float: left;
+}
+
+#attractions {
+
+}
